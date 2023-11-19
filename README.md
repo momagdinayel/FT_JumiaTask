@@ -6,4 +6,4 @@ Task 2: You are already registered,
 2. Hover on Supermarket then click on bakery.
 3. Add two items to your cart.
 4. Verify that the item is added to the cart successfully.
-5. Verify that the subtotal is calculated correctly according to the added item prices.
+5. Verify that the subtotal is calculated correctly according to the added item prices. 
